@@ -5,9 +5,9 @@ Statistical analysis on a catalog of galaxies.
 ## Dependencies
 
 You'll need a Python installation to run `astro-catalog`, which is a Python
-package. It was tested on Python 3.10.5, and its dependencies are listed in
-`requirements.txt`. You can easily install them if you already have `pip`
-installed:
+package. It is automatically tested on Python 3.10, and its dependencies are
+listed in `requirements.txt`. You can easily install them if you already have
+`pip` installed:
 
 ```
 $ pip install -r requirements.txt
