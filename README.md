@@ -1,6 +1,6 @@
 # astro-catalog
 
-Statistical analysis on a catalog of galaxies by Roccomaria Vespe and Stefano Volpe
+Statistical analysis on a catalog of galaxies
 
 ## Dependencies
 
